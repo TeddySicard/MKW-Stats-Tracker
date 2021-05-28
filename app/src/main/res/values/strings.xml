@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MKW stats tracker</string>
+    <string name="room">room</string>
+    <string name="priv">private</string>
+    <string name="pub">public</string>
+    <string name="lastTrack">last track</string>
+    <string name="noTrackPlayed">no track played yet</string>
+    <string name="vp">versus points</string>
+    <string name="bp">battle points</string>
+    <string name="miiName">mii name</string>
+    <string name="lookingAt">You are looking at</string>
+    <string name="player">player</string>
+    <string name="roomHost">room host</string>
+    <string name="unknown">unknown</string>
+    <string name="noRoomFound">no room found</string>
+    <string name="addedAsFav">has been added as favourite</string>
+    <string name="allRooms">All rooms</string>
+    <string name="favs">favourites</string>
+    <string name="roomDetails">room details</string>
+    <string name="title_activity_settings">app settings</string>
+    <string name="favourite_title">Favourites</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="avgVP">Average versus points</string>
+</resources>
